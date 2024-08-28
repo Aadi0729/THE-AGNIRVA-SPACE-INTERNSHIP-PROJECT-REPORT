@@ -1,6 +1,6 @@
 # 🚀 **Agnirva Space Internship Program** 🌌
 
-The **Agnirva Space Internship Program** is a comprehensive and immersive experience designed to provide participants with an in-depth understanding of the intersections between space science and big data analytics. 🌍✨ This program is meticulously structured to cover critical topics in space research, allowing interns to engage with real-world challenges and cutting-edge technologies. 🛰️🔍
+I participated in the **Agnirva Space Internship Program**, which was a **comprehensive** and **immersive** experience. This program provided me with an **in-depth understanding** of the intersections between **space science** and **big data analytics**. 🌍✨ It was **meticulously structured** to cover **critical topics** in space research, allowing me to engage with **real-world challenges** and **cutting-edge technologies**. 🛰️🔍
 
 ## **Table of Contents**
 1. [**Introduction**](#introduction)
