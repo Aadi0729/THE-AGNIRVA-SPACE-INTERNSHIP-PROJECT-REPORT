@@ -1,5 +1,7 @@
 # 🚀 **Agnirva Space Internship Program** 🌌
 
+https://github.com/user-attachments/assets/43db2627-8189-46a2-9c12-0db596fb580b
+
 I participated in the **Agnirva Space Internship Program**, which was a **comprehensive** and **immersive** experience. This program provided me with an **in-depth understanding** of the intersections between **space science** and **big data analytics**. 🌍✨ It was **meticulously structured** to cover **critical topics** in space research, allowing me to engage with **real-world challenges** and **cutting-edge technologies**. 🛰️🔍
 
 ## **Table of Contents**
